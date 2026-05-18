@@ -122,8 +122,7 @@ Behaviorism: The game constantly adjusts the points based on the correct placeme
 
 \## Authors
 
-
-
+Kirll Gladkikh - Game Designer, Game Developer, Artist.
 Ahmet Aydin - Added the correct sounds, Wrote the GDD - Document, Painted the buttons.
 
 
