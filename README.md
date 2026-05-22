@@ -36,9 +36,9 @@ The game mostly uses Behaviorism as its learning theory because players receive 
 
 These mechanics support learning through interaction, repetition, and feedback. Instead of simply reading recycling rules, the player actively tests different choices and learns from the results. This helps the player understand that proper recycling requires critical thinking, not just sorting items based on how they look.
 ## What I Did
-Kirill Gladkikh — Designed the main game concept and recycling gameplay idea; created and edited visual assets for the game; worked on the UI layout; developed the game prototype in Unity; implemented and adjusted gameplay systems related to sorting items.
-Ahmet Aydin — Added sound effects to the game; contributed to C# scripts and gameplay functionality; wrote the GDD / README document; designed the UI buttons.
-Yakup Ramin Abdullayev — Tested the game prototype; provided feedback on gameplay clarity and user experience; contributed to reviewing and improving the README / GDD document.
+- Kirill Gladkikh — Designed the main game concept and recycling gameplay idea; created and edited visual assets for the game; worked on the UI layout; developed the game prototype in Unity; implemented and adjusted gameplay systems related to sorting items.
+- Ahmet Aydin — Added sound effects to the game; contributed to C# scripts and gameplay functionality; wrote the GDD / README document; designed the UI buttons.
+- Yakup Ramin Abdullayev — Tested the game prototype; provided feedback on gameplay clarity and user experience; contributed to reviewing and improving the README / GDD document.
 
 ## Technologies Used
 
